@@ -8,7 +8,7 @@ A curated list of awesome tools, resources and workflow tips for coding
 - [Other Awesome Lists](#other-awesome-lists)
 
 ## Code Formatters
-- [Prettier](#https://prettier.io) Opinionated code formatter supporting many languages and editors
+- [Prettier](https://prettier.io) Opinionated code formatter supporting many languages and editors
 
 ## Linters
 ### Javascript & Typescript
