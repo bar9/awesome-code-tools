@@ -15,6 +15,10 @@ A curated list of awesome tools, resources and workflow tips for coding
 ### Javascript & Typescript
 - [ESLint](https://eslint.org/) Analyses Javascript & suggests fixes
 
+## Communication and collaboration
+- [Floobits](https://floobits.com/) Cross-Editor collaboration
+- [Codestream](https://www.codestream.com/) Collaboration tools inside IDE
+
 ## Other Awesome lists
 - [Awesome Dev Env](https://github.com/jondot/awesome-devenv)
 - [Awesome Code Review](https://github.com/joho/awesome-code-review)
