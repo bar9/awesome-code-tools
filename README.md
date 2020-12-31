@@ -6,6 +6,7 @@ A curated list of awesome tools, resources and workflow tips for coding
 - [Code formatters](#code-formatters)
 - [Linters](#linters)
 - [Other Awesome Lists](#other-awesome-lists)
+- [Other Indexes](#other-indexes)
 
 ## Code Formatters
 - [Prettier](https://prettier.io) Opinionated code formatter supporting many languages and editors
@@ -18,3 +19,6 @@ A curated list of awesome tools, resources and workflow tips for coding
 - [Awesome Dev Env](https://github.com/jondot/awesome-devenv)
 - [Awesome Code Review](https://github.com/joho/awesome-code-review)
 - [Awesome Devtools](https://github.com/moimikey/awesome-devtools)
+
+## Other indexes
+- [Developer Tools on ProductHunt](https://www.producthunt.com/topics/developer-tools)
