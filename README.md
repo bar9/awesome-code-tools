@@ -19,6 +19,9 @@ A curated list of awesome tools, resources and workflow tips for coding
 - [Floobits](https://floobits.com/) Cross-Editor collaboration
 - [Codestream](https://www.codestream.com/) Collaboration tools inside IDE
 
+## Code Browsers
+- [CScope](http://cscope.sourceforge.net/) Tool for browsing source code, integrates with vim
+
 ## Other Awesome lists
 - [Awesome Dev Env](https://github.com/jondot/awesome-devenv)
 - [Awesome Code Review](https://github.com/joho/awesome-code-review)
