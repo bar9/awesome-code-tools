@@ -22,6 +22,9 @@ A curated list of awesome tools, resources and workflow tips for coding
 ## Code Browsers
 - [CScope](http://cscope.sourceforge.net/) Tool for browsing source code, integrates with vim
 
+## Scaffolding
+- [Degit](https://github.com/Rich-Harris/degit) Scaffold a project from a git repository, without cloning
+
 ## Other Awesome lists
 - [Awesome Dev Env](https://github.com/jondot/awesome-devenv)
 - [Awesome Code Review](https://github.com/joho/awesome-code-review)
