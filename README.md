@@ -5,6 +5,10 @@ A curated list of awesome tools, resources and workflow tips for coding
 # Content
 - [Code formatters](#code-formatters)
 - [Linters](#linters)
+- [Communication and collaboration](#communiction-and-collaboration)
+- [Code Browsers](#code-browsers)
+- [Codegen](#codegen)
+- [Scaffolding](#scaffolding)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Other Indexes](#other-indexes)
 
@@ -21,6 +25,9 @@ A curated list of awesome tools, resources and workflow tips for coding
 
 ## Code Browsers
 - [CScope](http://cscope.sourceforge.net/) Tool for browsing source code, integrates with vim
+
+## Codegen
+- [Quicktype](https://github.com/quicktype/quicktype) Generate strong types from JSON etc.
 
 ## Scaffolding
 - [Degit](https://github.com/Rich-Harris/degit) Scaffold a project from a git repository, without cloning
