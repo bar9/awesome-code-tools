@@ -22,6 +22,7 @@ A curated list of awesome tools, resources and workflow tips for coding
 ## Communication and collaboration
 - [Floobits](https://floobits.com/) Cross-Editor collaboration
 - [Codestream](https://www.codestream.com/) Collaboration tools inside IDE
+- [Code with me](https://plugins.jetbrains.com/plugin/14896-code-with-me) Connects programmers working with IntelliJ IDEs
 
 ## Code Browsers
 - [CScope](http://cscope.sourceforge.net/) Tool for browsing source code, integrates with vim
