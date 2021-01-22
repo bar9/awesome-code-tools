@@ -9,6 +9,8 @@ A curated list of awesome tools, resources and workflow tips for coding
 - [Code Browsers](#code-browsers)
 - [Codegen](#codegen)
 - [Scaffolding](#scaffolding)
+- [Stats and productivity](#stats-and-productivity)
+- [Vim ecosystem](#vim-ecosystem)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Other Indexes](#other-indexes)
 
@@ -32,6 +34,17 @@ A curated list of awesome tools, resources and workflow tips for coding
 
 ## Scaffolding
 - [Degit](https://github.com/Rich-Harris/degit) Scaffold a project from a git repository, without cloning
+- [Emmet](https://emmet.io/) Emmet (expanding abbreviations)
+
+## Stats and Productivity
+- [Wakatime](https://wakatime.com) Metrics about your programming
+
+## Vim ecosystem
+- [Vim](https://vim.org) The legendary modal editor
+- [Cheat-Sheet](https://vim.rtorr.com) Well-arranged cheat sheet
+- [Janus](https://github.com/carlhuda/janus) Distribution with useful plugins
+- [Syntastic](https://github.com/vim-syntastic/syntastic) Syntax checker
+- [vim-easytags](https://github.com/xolox/vim-easytags) Syntax highlighting
 
 ## Other Awesome lists
 - [Awesome Dev Env](https://github.com/jondot/awesome-devenv)
