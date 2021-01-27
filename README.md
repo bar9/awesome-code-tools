@@ -7,6 +7,7 @@ A curated list of awesome tools, resources and workflow tips for coding
 - [Linters](#linters)
 - [Communication and collaboration](#communiction-and-collaboration)
 - [Code Browsers](#code-browsers)
+- [Documentation](#documentation)
 - [Codegen](#codegen)
 - [Scaffolding](#scaffolding)
 - [Stats and productivity](#stats-and-productivity)
@@ -28,6 +29,9 @@ A curated list of awesome tools, resources and workflow tips for coding
 
 ## Code Browsers
 - [CScope](http://cscope.sourceforge.net/) Tool for browsing source code, integrates with vim
+
+## Documentation
+- [Daux.io](http://daux.io/) A documentation generator from markdown
 
 ## Codegen
 - [Quicktype](https://github.com/quicktype/quicktype) Generate strong types from JSON etc.
