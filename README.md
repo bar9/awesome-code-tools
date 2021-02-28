@@ -7,6 +7,7 @@ A curated list of awesome tools, resources and workflow tips for coding
 - [Linters](#linters)
 - [Communication and collaboration](#communiction-and-collaboration)
 - [Code Browsers](#code-browsers)
+- [Cloud IDEs](#cloud-ides)
 - [Documentation](#documentation)
 - [Codegen](#codegen)
 - [Scaffolding](#scaffolding)
@@ -29,6 +30,9 @@ A curated list of awesome tools, resources and workflow tips for coding
 
 ## Code Browsers
 - [CScope](http://cscope.sourceforge.net/) Tool for browsing source code, integrates with vim
+
+## Cloud IDEs
+- [GitPod](https://www.gitpod.io/) A dev environment in the cloud
 
 ## Documentation
 - [Daux.io](http://daux.io/) A documentation generator from markdown
