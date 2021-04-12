@@ -13,6 +13,7 @@ A curated list of awesome tools, resources and workflow tips for coding
 - [Scaffolding](#scaffolding)
 - [Stats and productivity](#stats-and-productivity)
 - [Vim ecosystem](#vim-ecosystem)
+- [Email](#email)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Other Indexes](#other-indexes)
 
@@ -53,6 +54,9 @@ A curated list of awesome tools, resources and workflow tips for coding
 - [Janus](https://github.com/carlhuda/janus) Distribution with useful plugins
 - [Syntastic](https://github.com/vim-syntastic/syntastic) Syntax checker
 - [vim-easytags](https://github.com/xolox/vim-easytags) Syntax highlighting
+
+## Email
+- [Mail Studio](https://mailstudio.app) Design responsive emails working across different clients
 
 ## Other Awesome lists
 - [Awesome Dev Env](https://github.com/jondot/awesome-devenv)
