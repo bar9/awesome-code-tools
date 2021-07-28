@@ -37,6 +37,7 @@ A curated list of awesome tools, resources and workflow tips for coding
 
 ## Documentation
 - [Daux.io](http://daux.io/) A documentation generator from markdown
+- [Asciinema](https://asciinema.org) Terminal screencasts
 
 ## Codegen
 - [Quicktype](https://github.com/quicktype/quicktype) Generate strong types from JSON etc.
