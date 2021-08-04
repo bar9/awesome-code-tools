@@ -9,6 +9,7 @@ A curated list of awesome tools, resources and workflow tips for coding
 - [Code Browsers](#code-browsers)
 - [Cloud IDEs](#cloud-ides)
 - [Documentation](#documentation)
+- [Data](#data)
 - [Codegen](#codegen)
 - [Scaffolding](#scaffolding)
 - [Stats and productivity](#stats-and-productivity)
@@ -39,6 +40,9 @@ A curated list of awesome tools, resources and workflow tips for coding
 - [Daux.io](http://daux.io/) A documentation generator from markdown
 - [Asciinema](https://asciinema.org) Terminal screencasts
 - [Zeal / Dash](https://zealdocs.org) Offline documentation browser
+
+## Data
+- [xsv](https://github.com/BurntSushi/xsv) A csv toolkit for the CLI
 
 ## Codegen
 - [Quicktype](https://github.com/quicktype/quicktype) Generate strong types from JSON etc.
