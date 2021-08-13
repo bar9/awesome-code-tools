@@ -15,6 +15,7 @@ A curated list of awesome tools, resources and workflow tips for coding
 - [Stats and productivity](#stats-and-productivity)
 - [Vim ecosystem](#vim-ecosystem)
 - [Email](#email)
+- [Shell](#shell)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Other Indexes](#other-indexes)
 
@@ -64,6 +65,10 @@ A curated list of awesome tools, resources and workflow tips for coding
 
 ## Email
 - [Mail Studio](https://mailstudio.app) Design responsive emails working across different clients
+- [greenmail](https://github.com/greenmail-mail-test/greenmail) suite of email servers for testing purposes
+
+## Shell
+- [nushell](https://www.nushell.sh/) A table-oriented shell written in Rust
 
 ## Other Awesome lists
 - [Awesome Dev Env](https://github.com/jondot/awesome-devenv)
