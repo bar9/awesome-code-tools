@@ -46,7 +46,7 @@ A curated list of awesome tools, resources and workflow tips for coding
 ## Data
 - [xsv](https://github.com/BurntSushi/xsv) A csv toolkit for the CLI
 - [Apache Superset](https://superset.apache.org/) Data exploration and visualization platform
-
+- [datatools](https://github.com/caltechlibrary/datatools) Conversion tool for the most common data formats
 ## Codegen
 - [Quicktype](https://github.com/quicktype/quicktype) Generate strong types from JSON etc.
 
