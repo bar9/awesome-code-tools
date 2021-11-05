@@ -16,6 +16,7 @@ A curated list of awesome tools, resources and workflow tips for coding
 - [Vim ecosystem](#vim-ecosystem)
 - [Email](#email)
 - [Shell](#shell)
+- [Concepts](#concepts)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Other Indexes](#other-indexes)
 
@@ -70,6 +71,9 @@ A curated list of awesome tools, resources and workflow tips for coding
 
 ## Shell
 - [nushell](https://www.nushell.sh/) A table-oriented shell written in Rust
+
+## Concepts
+- [Do Nothing Scripts](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/) A more developer-oriented version of the checklist
 
 ## Other Awesome lists
 - [Awesome Dev Env](https://github.com/jondot/awesome-devenv)
